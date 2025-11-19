@@ -4,7 +4,8 @@
   - For us [Play Online](https://www.gungigame.com/play)
   - Interface --> Terminal or UI?
     - How to do visual interfaces in C
-      - [Basics](https://0and6.wordpress.com/2019/06/21/interfacez-graficas-en-c-para-windows/)
+      - [Basics](https://0and6.wordpress.com/2019/06/21/interfacez-graficas-en-c-para-windows/) (Not support on linux) 
+      - [Sdl2](https://wiki.libsdl.org/SDL2/FrontPage)(Full support in both systems) 
       - [Integration with c++ (Ejemplo))](https://youtu.be/7D4uoSoQsjw?si=LX4T7rCbbS8jh5NH)
       - third-party libraries is the most possible --> Investigate
   - Methods:
